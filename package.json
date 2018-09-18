@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KRChapman/Save-Chat/issues"
   },
-  "homepage": "https://github.com/KRChapman/Save-Chat#readme"
+  "homepage": "https://github.com/KRChapman/Save-Chat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
