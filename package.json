@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/KRChapman/Save-Chat#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.15"
   }
 }
